@@ -1,0 +1,14 @@
+body {
+    background-color: honeydew;
+}
+
+.instrucciones {
+    font-weight: bold;
+    size: 25px;
+}
+
+#resultado {
+    font-weight: bold;
+    size: 25px;
+    color: green;
+}
